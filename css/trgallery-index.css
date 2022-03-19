@@ -133,7 +133,7 @@ margin-top: 5%;
 
 }
 .winter-background {
-  background: url('../photos/winter/winter-background.JPG')center fixed;
+  background: url('../photos/winter/winter-background.jpg')center fixed;
   background-repeat: no-repeat;
   background-size: 100% 100%;
   margin:  0 auto;
@@ -152,21 +152,21 @@ margin-top: 5%;
   z-index: -1;
 }*/
 .travels-background {
-  background: url('../photos/travels/travels-background.JPG')center fixed;
+  background: url('../photos/travels/travels-background.jpg')center fixed;
   background-repeat: no-repeat;
   background-size: 100% 100%;
   margin:  0 auto;
   margin-top:  5%;
 }
 .friends-background {
-  background: url('../photos/friends/friends-background.JPG')center fixed;
+  background: url('../photos/friends/friends-background.jpg')center fixed;
   background-repeat: no-repeat;
   background-size: 100% 100%;
   margin:  0 auto;
   margin-top:  5%;
 }
 .food-background {
-  background: url('../photos/food/food-background.JPG')center fixed;
+  background: url('../photos/food/food-background.jpg')center fixed;
   background-repeat: no-repeat;
   background-size: 100% 100%;
   margin:  0 auto;
